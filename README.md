@@ -1,5 +1,6 @@
 # Natural-Language-Processing-with-Disaster-Tweets
-Competition Description Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+Competition Description Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies)...
+
 
 ![image](https://github.com/Dubeyrock/Natural-Language-Processing-with-Disaster-Tweets/assets/96882359/9647156b-ab2f-41ea-87e5-2800c6107dcc)
 
